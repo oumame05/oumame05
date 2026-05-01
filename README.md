@@ -1,4 +1,5 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,50:6b2d5e,100:c2185b&height=220&section=header&text=Oumame%20Ishagh&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Network%20%26%20Security%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Gold%20Medalist&descAlignY=60&descSize=17&descColor=f8bbd0" alt="header"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E91E8C&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+MERN+%7C+Flutter;Networks%2C+Systems+%26+Security+Engineer;VPN+%7C+Firewall+%7C+Cisco+%7C+GNS3+%7C+PFsense;ERP+Odoo+Developer+%7C+Python;Gold+Medal+%E2%80%94+Nuit+de+l%27info+2025%2F2026" alt="Typing SVG" />
