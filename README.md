@@ -240,15 +240,6 @@ Configuration modules : ventes, comptabilite, RH — adaptation des flux de trav
 
 ---
 
-## Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
-</div>
-
----
-
-
 
 
 ## Me contacter
